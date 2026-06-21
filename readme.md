@@ -41,8 +41,9 @@ O **Bootstrap 5** foi utilizado de forma pontual, introdutória e justificada na
 - **Links e Carregamento:** Validação do link dinâmico da API do WhatsApp contendo mensagem de saudação pré-formatada e teste de tempo de renderização das imagens externas.
 
 ## Links
-- Link do repositório: 
+- Link do repositório: https://github.com/raelLacerdaDev/women_personalizados/tree/main
 - Link do site publicado: https://raellacerdadev.github.io/women_personalizados/
+- Link das provas: https://github.com/raelLacerdaDev/women_personalizados/wiki/Processo-de-constru%C3%A7%C3%A3o-(screenshots)
 
 ## Contribuição dos integrantes
 - **Israel Lacerda Gomes Santos:** Responsável pelo levantamento de requisitos com a loja, estruturação do HTML semântico,
