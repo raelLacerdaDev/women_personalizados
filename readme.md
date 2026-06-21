@@ -42,7 +42,7 @@ O **Bootstrap 5** foi utilizado de forma pontual, introdutória e justificada na
 
 ## Links
 - Link do repositório: 
-- Link do site publicado: 
+- Link do site publicado: https://raellacerdadev.github.io/women_personalizados/
 
 ## Contribuição dos integrantes
 - **Israel Lacerda Gomes Santos:** Responsável pelo levantamento de requisitos com a loja, estruturação do HTML semântico,
