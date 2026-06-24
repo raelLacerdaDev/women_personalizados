@@ -2,7 +2,7 @@
 
 ## Integrantes da dupla
 - Israel Lacerda Gomes Santos
-- Italo Cordeiro
+- Italo Rodrigues Cordeiro
 
 ## Descrição do caso escolhido
 O projeto foi desenvolvido para a **Woman Personalizados**, um ateliê de costura criativa e mimos personalizados gerido por uma profissional autônoma (mãe de um dos integrantes da dupla). O negócio opera em âmbito local e pelas redes sociais, oferecendo itens customizados como canecas, camisetas, ecobags e, tendo como sua grande especialidade, as **bolsas e kits estruturados de maternidade**.
